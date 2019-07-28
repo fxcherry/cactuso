@@ -13,4 +13,4 @@ lib.setup(bot);
 
 module.exports.bot = bot;
 
-bot.login(605058365747363870);
+bot.login(605089736377368600);
