@@ -1,7 +1,7 @@
 const discord = require("discord.js");
 const token = require("./token.json").token;
 const bot = new discord.Client({
-  disableEveryone: false
+  disableEveryone: true
 });
 const lib = require("./lib/functions");
 
